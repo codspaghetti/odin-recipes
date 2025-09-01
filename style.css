@@ -1,0 +1,21 @@
+.title {
+    font-family: cursive;
+    font-weight: 300;
+    background-color:#288484;
+    color: black;
+    margin:0;
+    padding-left: 40px;
+
+}
+span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+.main {
+    margin:auto;
+    margin-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: #C5A46D;
+
+}
